@@ -4,4 +4,4 @@ int main(){
     strcpy(dest, src);
     puts(dest);
     return 0;
-}
+} 
