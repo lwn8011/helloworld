@@ -1,0 +1,7 @@
+int main(){
+    char dest[50] = { 0 };
+    char src[50] = { "http://c.biancheng.net" };
+    strcpy(dest, src);
+    puts(dest);
+    return 0;
+}
